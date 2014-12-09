@@ -9,10 +9,10 @@ Install this script using TamperMonkey.
 
 When clicking the `<username>:branch` the repository branch page is opened is opened in a new tab.
 
-![Screenshot](./demo/1.png")
+![Screenshot](./demo/1.png)
 
 ## Demo
-![Gif](./demo/2.gif")
+![Gif](./demo/2.gif)
 
 
 ## How to contribute
