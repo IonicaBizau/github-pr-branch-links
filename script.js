@@ -19,5 +19,5 @@ window.addEventListener("load", function () {
           ;
 
         window.open(l, "_blank").focus();
-    });
+    }).css("cursor", "pointer");
 });
