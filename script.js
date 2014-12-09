@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PR Branch Links
+// @name         GitHub Pull Request Branch Links
 // @version      0.1
 // @description  Open in a new tab the clicked branch on a pull request page.
 // @author       Ionică Bizău
