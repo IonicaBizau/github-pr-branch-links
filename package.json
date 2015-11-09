@@ -1,6 +1,6 @@
 {
   "name": "gihtub-pr-branch-links",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Open in a new tab the clicked branch on a pull request page.",
   "main": "script.js",
   "scripts": {
@@ -16,10 +16,33 @@
     "github",
     "links"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/github-pr-branch-links/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/github-pr-branch-links"
+  "homepage": "https://github.com/IonicaBizau/github-pr-branch-links",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Usage"
+      },
+      {
+        "p": "When clicking the `<username>:branch` the repository branch page is opened is opened in a new tab."
+      },
+      {
+        "img": {
+          "source": "./demo/1.png"
+        }
+      },
+      {
+        "h2": "Demo"
+      },
+      {
+        "img": {
+          "source": "./demo/2.gif"
+        }
+      }
+    ]
+  }
 }
