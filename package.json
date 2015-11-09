@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/github-pr-branch-links",
   "blah": {
+    "show_docs": false,
     "installation": [
       {
         "h2": "Usage"

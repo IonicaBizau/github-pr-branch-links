@@ -17,8 +17,6 @@ When clicking the `<username>:branch` the repository branch page is opened is op
 ## Demo
 ![](./demo/2.gif)
 
-## Documentation
-
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
