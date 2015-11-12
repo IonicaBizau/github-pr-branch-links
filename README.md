@@ -5,7 +5,7 @@ Open in a new tab the clicked branch on a pull request page.
 ## Installation
 
 ```sh
-$ npm i -g gihtub-pr-branch-links
+$ npm i gihtub-pr-branch-links
 ```
 
 ## Usage
