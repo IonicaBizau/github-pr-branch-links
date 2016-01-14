@@ -1,6 +1,6 @@
 {
   "name": "gihtub-pr-branch-links",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Open in a new tab the clicked branch on a pull request page.",
   "main": "script.js",
   "scripts": {
