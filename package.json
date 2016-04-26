@@ -1,6 +1,6 @@
 {
   "name": "gihtub-pr-branch-links",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Open in a new tab the clicked branch on a pull request page.",
   "main": "script.js",
   "scripts": {
@@ -45,5 +45,16 @@
         }
       }
     ]
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
