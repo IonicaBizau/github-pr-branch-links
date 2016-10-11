@@ -1,6 +1,6 @@
 {
   "name": "github-pr-branch-links",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Open in a new tab the clicked branch on a pull request page.",
   "main": "script.js",
   "scripts": {
@@ -50,6 +50,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
