@@ -1,6 +1,6 @@
 {
   "name": "github-pr-branch-links",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Open in a new tab the clicked branch on a pull request page.",
   "main": "script.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "github",
     "links"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/github-pr-branch-links/issues"
@@ -50,12 +50,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
