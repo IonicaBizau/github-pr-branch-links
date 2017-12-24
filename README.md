@@ -10,17 +10,23 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save github-pr-branch-links
+# Using npm
+npm install --save github-pr-branch-links
+
+# Using yarn
+yarn add github-pr-branch-links
 ```
 
 
 ## Usage
+
 
 When clicking the `<username>:branch` the repository branch page is opened is opened in a new tab.
 
 ![](./demo/1.png)
 
 ## Demo
+
 ![](./demo/2.gif)
 
 
